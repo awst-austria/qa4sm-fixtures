@@ -7,7 +7,7 @@
             "pretty_name": "v201706",
             "help_text": "C3S from June 2017",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2022-10-10",
+            "time_range_end": "2017-06-30",
             "geographical_range": null,
             "filters": [
                 6,
@@ -24,7 +24,7 @@
             "pretty_name": "v5 PM/ascending",
             "help_text": "",
             "time_range_start": "2015-03-31",
-            "time_range_end": "2023-02-15",
+            "time_range_end": "2018-12-04",
             "geographical_range": null,
             "filters": [
                 1
