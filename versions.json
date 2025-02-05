@@ -165,7 +165,7 @@
             "pretty_name": "v20190904",
             "help_text": "updated snapshot of the reanalysis dataset from 2019-09-04",
             "time_range_start": "1981-01-01",
-            "time_range_end": "2022-12-31",
+            "time_range_end": "2024-11-30",
             "geographical_range": null,
             "filters": [
                 1,
