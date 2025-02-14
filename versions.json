@@ -10,9 +10,9 @@
             "time_range_end": "2022-10-10",
             "geographical_range": null,
             "filters": [
-                1,
                 6,
-                7
+                7,
+                1
             ]
         }
     },
@@ -165,7 +165,7 @@
             "pretty_name": "v20190904",
             "help_text": "updated snapshot of the reanalysis dataset from 2019-09-04",
             "time_range_start": "1981-01-01",
-            "time_range_end": "2022-12-31",
+            "time_range_end": "2024-11-30",
             "geographical_range": null,
             "filters": [
                 1,
@@ -528,7 +528,7 @@
             "pretty_name": "v700",
             "help_text": "SMOS L2-SM (ESA)",
             "time_range_start": "2010-07-01",
-            "time_range_end": "2024-02-20",
+            "time_range_end": "2025-02-11",
             "geographical_range": null,
             "filters": [
                 1,
@@ -540,8 +540,8 @@
                 40,
                 41,
                 42,
-                45,
-                46
+                46,
+                45
             ]
         }
     },
@@ -636,7 +636,7 @@
             "pretty_name": "v202212",
             "help_text": "CDR v202212",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2022-12-31",
+            "time_range_end": "2025-01-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -850,7 +850,7 @@
             "pretty_name": "latest",
             "help_text": "up-to-date version of 6-hourly ERA5 data",
             "time_range_start": "1979-01-01",
-            "time_range_end": "2023-12-31",
+            "time_range_end": "2024-11-30",
             "geographical_range": null,
             "filters": [
                 1,
@@ -866,7 +866,7 @@
             "pretty_name": "v202312",
             "help_text": "CDR v202312",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2023-12-31",
+            "time_range_end": "2025-01-20",
             "geographical_range": null,
             "filters": [
                 1,
