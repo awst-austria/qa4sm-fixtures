@@ -7,7 +7,7 @@
             "pretty_name": "v201706",
             "help_text": "C3S from June 2017",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2017-06-30",
+            "time_range_end": "2022-10-10",
             "geographical_range": null,
             "filters": [
                 1,
@@ -24,7 +24,7 @@
             "pretty_name": "v5 PM/ascending",
             "help_text": "",
             "time_range_start": "2015-03-31",
-            "time_range_end": "2018-12-04",
+            "time_range_end": "2023-02-15",
             "geographical_range": null,
             "filters": [
                 1
@@ -528,20 +528,20 @@
             "pretty_name": "v700",
             "help_text": "SMOS L2-SM (ESA)",
             "time_range_start": "2010-07-01",
-            "time_range_end": "2025-02-06",
+            "time_range_end": "2025-02-11",
             "geographical_range": null,
             "filters": [
                 1,
+                35,
                 36,
                 37,
                 38,
                 39,
-                35,
                 40,
                 41,
                 42,
-                45,
-                46
+                46,
+                45
             ]
         }
     },
@@ -636,7 +636,7 @@
             "pretty_name": "v202212",
             "help_text": "CDR v202212",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2025-01-20",
+            "time_range_end": "2025-01-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -939,6 +939,31 @@
             "filters": [
                 1,
                 17
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 63,
+        "fields": {
+            "short_name": "V781_FinalMetrics",
+            "pretty_name": "V781_FinalMetrics",
+            "help_text": "v781 Final metrics",
+            "time_range_start": "2013-12-21",
+            "time_range_end": "2016-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                45,
+                46
             ]
         }
     }
