@@ -764,7 +764,7 @@
       "to_include": null,
       "to_exclude": null,
       "default_set_active": false,
-      "readonly": false
+      "readonly": true
     }
   },
   {
@@ -780,7 +780,7 @@
       "to_include": null,
       "to_exclude": null,
       "default_set_active": false,
-      "readonly": false
+      "readonly": true
     }
   }
 ]
