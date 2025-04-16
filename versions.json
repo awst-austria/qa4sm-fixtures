@@ -866,7 +866,7 @@
             "pretty_name": "v202312",
             "help_text": "CDR v202312",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2025-03-20",
+            "time_range_end": "2025-03-31",
             "geographical_range": null,
             "filters": [
                 1,
