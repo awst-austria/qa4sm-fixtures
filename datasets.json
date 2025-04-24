@@ -1,3 +1,5 @@
+
+From https://github.com/awst-austria/qa4sm-fixtures
 [
   {
     "model": "validator.dataset",
@@ -42,10 +44,6 @@
       "citation": "<a target=\"_blank\" href=\"https://nsidc.org/data/SPL3SMP\" rel=\"noreferrer\">Online documentation here</a>",
       "is_spatial_reference": false,
       "versions": [
-        2,
-        29,
-        43,
-        44,
         52,
         53,
         64
@@ -99,9 +97,6 @@
       "citation": "<a target=\"_blank\" href=\"https://ismn.earth/en/terms-and-conditions/\" rel=\"noreferrer\">Terms and conditions.</a>",
       "is_spatial_reference": true,
       "versions": [
-        18,
-        30,
-        41,
         42,
         56
       ],
@@ -152,8 +147,6 @@
       "citation": "<a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/node/137\" rel=\"noreferrer\">See CCI Publications Page</a>",
       "is_spatial_reference": false,
       "versions": [
-        12,
-        19,
         24,
         27,
         34,
@@ -209,7 +202,6 @@
       "citation": "See <a target=\"_blank\" href=\"https://confluence.ecmwf.int/display/CKB/How+to+acknowledge%2C+cite+and+reference+data+published+on+the+Climate+Data+Store\" rel=\"noreferrer\">here</a> and <a target=\"_blank\" href=\"https://doi.org/10.1002/qj.3803\" rel=\"noreferrer\">here</a> ",
       "is_spatial_reference": false,
       "versions": [
-        15,
         57
       ],
       "variables": [
@@ -235,7 +227,6 @@
       "citation": "<a target=\"_blank\" href=\"https://confluence.ecmwf.int/display/CKB/ERA5-Land%3A+data+documentation\" rel=\"noreferrer\">Online documentation here</a>",
       "is_spatial_reference": false,
       "versions": [
-        16,
         62
       ],
       "variables": [
