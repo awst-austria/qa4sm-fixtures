@@ -1154,5 +1154,65 @@
                 2
             ]
         }
+    },
+        {
+        "model": "validator.datasetversion",
+        "pk": 65,
+        "fields": {
+            "short_name": "ESA_CCI_SM_P_V09_2",
+            "pretty_name": "v09.2",
+            "help_text": "-",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2023-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                14
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 66,
+        "fields": {
+            "short_name": "ESA_CCI_SM_A_V09_2",
+            "pretty_name": "v09.2",
+            "help_text": "-",
+            "time_range_start": "1991-08-05",
+            "time_range_end": "2023-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                13
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 67,
+        "fields": {
+            "short_name": "ESA_CCI_SM_C_V09_2",
+            "pretty_name": "v09.2",
+            "help_text": "-",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2023-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                9
+            ]
+        }
     }
 ]
