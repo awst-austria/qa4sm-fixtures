@@ -1014,12 +1014,12 @@
             "pretty_name": "v202312",
             "help_text": "CDR v202312",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2025-05-10",
+            "time_range_end": "2025-05-31",
             "geographical_range": null,
             "filters": [
+                7,
                 1,
-                6,
-                7
+                6
             ],
             "variables": [
                 1
@@ -1155,7 +1155,7 @@
             ]
         }
     },
-        {
+    {
         "model": "validator.datasetversion",
         "pk": 65,
         "fields": {
