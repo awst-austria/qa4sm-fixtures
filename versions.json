@@ -90,7 +90,7 @@
             "pretty_name": "NOAH025 3H.2.1",
             "help_text": "Version 2.1",
             "time_range_start": "2000-01-01",
-            "time_range_end": "2023-10-31",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -1002,7 +1002,10 @@
                 16
             ],
             "variables": [
-                11
+                11,
+                24,
+                25,
+                26
             ]
         }
     },
@@ -1101,7 +1104,10 @@
                 17
             ],
             "variables": [
-                12
+                12,
+                27,
+                28,
+                29
             ]
         }
     },
@@ -1163,7 +1169,7 @@
             "pretty_name": "v09.2",
             "help_text": "-",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2023-12-31",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -1183,7 +1189,7 @@
             "pretty_name": "v09.2",
             "help_text": "-",
             "time_range_start": "1991-08-05",
-            "time_range_end": "2023-12-31",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -1223,7 +1229,7 @@
             "pretty_name": "v09.2",
             "help_text": "-",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2023-12-31",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1
