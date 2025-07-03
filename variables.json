@@ -226,5 +226,53 @@
       "min_value": 0.0,
       "max_value": 1.0
     }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 20,
+    "fields": {
+      "short_name": "rzsm_1",
+      "pretty_name": "ESA_CCI_RZSM_0_10cm",
+      "unit": "m³/m³",
+      "help_text": "-",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 21,
+    "fields": {
+      "short_name": "rzsm_2",
+      "pretty_name": "ESA_CCI_RZSM_10_40cm",
+      "unit": "m³/m³",
+      "help_text": "-",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 22,
+    "fields": {
+      "short_name": "rzsm_3",
+      "pretty_name": "ESA_CCI_RZSM_40_100cm",
+      "unit": "m³/m³",
+      "help_text": "-",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 23,
+    "fields": {
+      "short_name": "rzsm_1",
+      "pretty_name": "ESA_CCI_RZSM_1m_avg",
+      "unit": "m³/m³",
+      "help_text": "-",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
   }
 ]
