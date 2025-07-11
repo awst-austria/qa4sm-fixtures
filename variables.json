@@ -267,10 +267,83 @@
     "model": "validator.datavariable",
     "pk": 23,
     "fields": {
-      "short_name": "rzsm_1",
+      "short_name": "rzsm_1m",
       "pretty_name": "ESA_CCI_RZSM_1m_avg",
       "unit": "m³/m³",
       "help_text": "-",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 24,
+    "fields": {
+      "short_name": "swvl2",
+      "pretty_name": "ERA5_sm1",
+      "unit": "m³/m³",
+      "help_text": "",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 25,
+    "fields": {
+      "short_name": "swvl3",
+      "pretty_name": "ERA5_sm3",
+      "unit": "m³/m³",
+      "help_text": "",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 26,
+    "fields": {
+      "short_name": "swvl4",
+      "pretty_name": "ERA5_sm4",
+      "unit": "m³/m³",
+      "help_text": "",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 27,
+    "fields": {
+      "short_name": "swvl2",
+      "pretty_name": "ERA5_LAND_sm2",
+      "unit": "m³/m³",
+      "help_text": "",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 28,
+    "fields": {
+      "short_name": "swvl3",
+      "pretty_name": "ERA5_LAND_sm3",
+      "unit": "m³/m³",
+      "help_text": "",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  }
+  ,
+  {
+    "model": "validator.datavariable",
+    "pk": 29,
+    "fields": {
+      "short_name": "swvl4",
+      "pretty_name": "ERA5_LAND_sm4",
+      "unit": "m³/m³",
+      "help_text": "",
       "min_value": 0.0,
       "max_value": 1.0
     }
