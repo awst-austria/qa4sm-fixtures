@@ -87,7 +87,8 @@
       "is_spatial_reference": true,
       "versions": [
         42,
-        56
+        56,
+        69
       ],
       "resolution": null
     }
