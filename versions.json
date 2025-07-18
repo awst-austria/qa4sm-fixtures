@@ -90,7 +90,7 @@
             "pretty_name": "NOAH025 3H.2.1",
             "help_text": "Version 2.1",
             "time_range_start": "2000-01-01",
-            "time_range_end": "2023-10-31",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -619,10 +619,9 @@
             "pretty_name": "v700",
             "help_text": "SMOS L2-SM (ESA)",
             "time_range_start": "2010-07-01",
-            "time_range_end": "2025-05-20",
+            "time_range_end": "2025-06-24",
             "geographical_range": null,
             "filters": [
-                1,
                 35,
                 36,
                 37,
@@ -631,6 +630,7 @@
                 40,
                 41,
                 42,
+                1,
                 45,
                 46
             ],
@@ -745,12 +745,12 @@
             "pretty_name": "v202212",
             "help_text": "CDR v202212",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2025-05-10",
+            "time_range_end": "2025-05-31",
             "geographical_range": null,
             "filters": [
+                7,
                 1,
-                6,
-                7
+                6
             ],
             "variables": [
                 1
@@ -995,14 +995,17 @@
             "pretty_name": "latest",
             "help_text": "up-to-date version of 6-hourly ERA5 data",
             "time_range_start": "1979-01-01",
-            "time_range_end": "2025-02-28",
+            "time_range_end": "2025-03-31",
             "geographical_range": null,
             "filters": [
-                1,
-                16
+                16,
+                1
             ],
             "variables": [
-                11
+                11,
+                24,
+                25,
+                26
             ]
         }
     },
@@ -1014,12 +1017,12 @@
             "pretty_name": "v202312",
             "help_text": "CDR v202312",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2025-05-10",
+            "time_range_end": "2025-05-31",
             "geographical_range": null,
             "filters": [
+                7,
                 1,
-                6,
-                7
+                6
             ],
             "variables": [
                 1
@@ -1094,14 +1097,17 @@
             "pretty_name": "latest",
             "help_text": "updated snapshot of the reanalysis dataset",
             "time_range_start": "1981-01-01",
-            "time_range_end": "2025-02-28",
+            "time_range_end": "2025-03-31",
             "geographical_range": null,
             "filters": [
-                1,
-                17
+                17,
+                1
             ],
             "variables": [
-                12
+                12,
+                27,
+                28,
+                29
             ]
         }
     },
@@ -1155,7 +1161,7 @@
             ]
         }
     },
-        {
+    {
         "model": "validator.datasetversion",
         "pk": 65,
         "fields": {
@@ -1163,7 +1169,7 @@
             "pretty_name": "v09.2",
             "help_text": "-",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2023-12-31",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -1183,7 +1189,7 @@
             "pretty_name": "v09.2",
             "help_text": "-",
             "time_range_start": "1991-08-05",
-            "time_range_end": "2023-12-31",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -1195,6 +1201,7 @@
             ]
         }
     },
+
     {
         "model": "validator.datasetversion",
         "pk": 67,
@@ -1203,7 +1210,7 @@
             "pretty_name": "v09.2",
             "help_text": "-",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2023-12-31",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1,
@@ -1212,6 +1219,27 @@
             ],
             "variables": [
                 9
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 68,
+        "fields": {
+            "short_name": "ESA_CCI_RZSM_V09_2",
+            "pretty_name": "v09.2",
+            "help_text": "-",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1
+            ],
+            "variables": [
+                20,
+                21,
+                22,
+                23
             ]
         }
     }
