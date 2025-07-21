@@ -1263,5 +1263,86 @@
                 4
             ]
         }
+    },
+        {
+        "model": "validator.datasetversion",
+        "pk": 70,
+        "fields": {
+            "short_name": "C3S_V202505",
+            "pretty_name": "v202505",
+            "help_text": "C3S COMBINED v202505",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 71,
+        "fields": {
+            "short_name": "C3S_P_V202505",
+            "pretty_name": "v202505",
+            "help_text": "C3S PASSIVE v202505",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 72,
+        "fields": {
+            "short_name": "C3S_A_V202505",
+            "pretty_name": "v202505",
+            "help_text": "C3S ACTIVE v202505",
+            "time_range_start": "1991-08-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                30
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 73,
+        "fields": {
+            "short_name": "C3S_RZSM_V202505",
+            "pretty_name": "v202505",
+            "help_text": "C3S RZSM v202505",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1
+            ],
+            "variables": [
+                31,
+                32,
+                33,
+                34
+            ]
+        }
     }
 ]
