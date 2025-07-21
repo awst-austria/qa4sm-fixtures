@@ -347,5 +347,65 @@
       "min_value": 0.0,
       "max_value": 1.0
     }
+  },
+    {
+    "model": "validator.datavariable",
+    "pk": 30,
+    "fields": {
+      "short_name": "sm",
+      "pretty_name": "C3S_sat",
+      "unit": "% sat.",
+      "help_text": "",
+      "min_value": 0.0,
+      "max_value": 100.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 31,
+    "fields": {
+      "short_name": "rzsm_1",
+      "pretty_name": "C3S_rzsm_1",
+      "unit": "m³/m³",
+      "help_text": "Root-zone SM 0-10 cm",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 32,
+    "fields": {
+      "short_name": "rzsm_2",
+      "pretty_name": "C3S_rzsm_2",
+      "unit": "m³/m³",
+      "help_text": "Root-zone SM 10-40 cm",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 33,
+    "fields": {
+      "short_name": "rzsm_3",
+      "pretty_name": "C3S_rzsm_3",
+      "unit": "m³/m³",
+      "help_text": "Root-zone SM 40-100 cm",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+    {
+    "model": "validator.datavariable",
+    "pk": 34,
+    "fields": {
+      "short_name": "rzsm_1m",
+      "pretty_name": "C3S_rzsm_1m",
+      "unit": "m³/m³",
+      "help_text": "Root-zone SM 0-1m",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
   }
 ]

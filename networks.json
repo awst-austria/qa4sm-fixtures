@@ -7,7 +7,12 @@
             "continent": "Africa",
             "country": "Benin, Niger, Mali",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -19,7 +24,8 @@
             "continent": "Africa",
             "country": "Sudan",
             "versions": [
-                18, 30
+                18,
+                30
             ]
         }
     },
@@ -31,7 +37,12 @@
             "continent": "Africa",
             "country": "Senegal",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -43,7 +54,11 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                18, 30, 42, 56
+                18,
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -55,7 +70,12 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -67,7 +87,12 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -79,7 +104,11 @@
             "continent": "Asia",
             "country": "Korea",
             "versions": [
-                18, 30, 42, 56
+                18,
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -90,7 +119,6 @@
             "name": "HYU-CHEONGMICHEON",
             "continent": "Asia",
             "country": "Korea",
-
             "versions": [
                 18
             ]
@@ -103,9 +131,13 @@
             "name": "IIT_KANPUR",
             "continent": "Asia",
             "country": "India",
-
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -117,7 +149,12 @@
             "continent": "Asia",
             "country": "Uzbekistan",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -129,7 +166,12 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -141,7 +183,11 @@
             "continent": "Asia",
             "country": "Mongolia",
             "versions": [
-                18, 30, 42, 56
+                18,
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -153,7 +199,12 @@
             "continent": "Asia",
             "country": "Malaysia",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -165,7 +216,11 @@
             "continent": "Asia",
             "country": "Former Soviet Union",
             "versions": [
-                18, 30, 42, 56
+                18,
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -177,7 +232,11 @@
             "continent": "Asia",
             "country": "Former Soviet Union",
             "versions": [
-                18, 30, 42, 56
+                18,
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -189,7 +248,11 @@
             "continent": "Asia",
             "country": "Former Soviet Union",
             "versions": [
-                18, 30, 42, 56
+                18,
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -201,7 +264,12 @@
             "continent": "Asia",
             "country": "Korea",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -213,7 +281,12 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -225,7 +298,12 @@
             "continent": "Australia",
             "country": "Australia",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -237,7 +315,12 @@
             "continent": "Australia",
             "country": "Australia",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -249,7 +332,11 @@
             "continent": "Australia",
             "country": "Australia",
             "versions": [
-                18, 30, 42, 56
+                18,
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -261,7 +348,12 @@
             "continent": "Europe",
             "country": "Poland",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -273,7 +365,12 @@
             "continent": "Europe",
             "country": "Italy",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -285,7 +382,12 @@
             "continent": "Europe",
             "country": "Italy",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -297,7 +399,12 @@
             "continent": "Europe",
             "country": "Finland",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -309,7 +416,12 @@
             "continent": "Europe",
             "country": "France",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -321,7 +433,12 @@
             "continent": "Europe",
             "country": "UK",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -333,7 +450,12 @@
             "continent": "Europe",
             "country": "Finland",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -345,7 +467,12 @@
             "continent": "Europe",
             "country": "Denmark",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -357,7 +484,12 @@
             "continent": "Europe",
             "country": "Italy",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -369,7 +501,12 @@
             "continent": "Europe",
             "country": "Italy",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -381,7 +518,12 @@
             "continent": "Europe",
             "country": "Italy",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -393,7 +535,12 @@
             "continent": "Europe",
             "country": "Germany",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -405,7 +552,12 @@
             "continent": "Europe",
             "country": "France",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -417,7 +569,12 @@
             "continent": "Europe",
             "country": "Spain",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -429,7 +586,12 @@
             "continent": "Europe",
             "country": "Romania",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -441,7 +603,12 @@
             "continent": "Europe",
             "country": "France",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -453,7 +620,12 @@
             "continent": "Europe",
             "country": "Poland",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -465,7 +637,12 @@
             "continent": "Europe",
             "country": "Germany",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -477,7 +654,12 @@
             "continent": "Europe",
             "country": "Germany",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -488,9 +670,13 @@
             "name": "UMBRIA",
             "continent": "Europe",
             "country": "Italy",
-
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -502,7 +688,12 @@
             "continent": "Europe",
             "country": "Italy",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -514,7 +705,12 @@
             "continent": "Europe",
             "country": "Spain",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -526,7 +722,12 @@
             "continent": "Europe",
             "country": "Austria",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -538,7 +739,12 @@
             "continent": "Europe",
             "country": "UK",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -550,7 +756,13 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                5, 18, 30, 41, 42, 56
+                5,
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -562,7 +774,12 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -574,7 +791,12 @@
             "continent": "North America",
             "country": "Alaska",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -586,7 +808,12 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -598,7 +825,12 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -610,7 +842,12 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -622,7 +859,11 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                18, 30, 42, 56
+                18,
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -634,7 +875,11 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56
             ]
         }
     },
@@ -646,7 +891,12 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -658,7 +908,12 @@
             "continent": "North America",
             "country": "Canada",
             "versions": [
-                18, 30, 41, 42, 56
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -670,7 +925,13 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                5, 18, 30, 41, 42, 56
+                5,
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -682,7 +943,13 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                5, 18, 30, 41, 42, 56
+                5,
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -694,7 +961,13 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                5, 18, 30, 41, 42, 56
+                5,
+                18,
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -706,7 +979,12 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                30, 18, 41, 42, 56
+                30,
+                18,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -718,7 +996,11 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                30, 18, 42, 56
+                30,
+                18,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -730,7 +1012,12 @@
             "continent": "South America",
             "country": "Chile",
             "versions": [
-                30, 18, 41, 42, 56
+                30,
+                18,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -742,7 +1029,10 @@
             "continent": "Europe",
             "country": "Austria",
             "versions": [
-                30, 42, 56
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -754,7 +1044,11 @@
             "continent": "Europe",
             "country": "Spain",
             "versions": [
-                30, 41, 42, 56
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -766,7 +1060,11 @@
             "continent": "Asia",
             "country": "Korea",
             "versions": [
-                30, 41, 42, 56
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -778,7 +1076,11 @@
             "continent": "Asia",
             "country": "Korea",
             "versions": [
-                30, 41, 42, 56
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -790,7 +1092,11 @@
             "continent": "Asia",
             "country": "Myanmar",
             "versions": [
-                30, 41, 42, 56
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -802,7 +1108,11 @@
             "continent": "Oceania",
             "country": "New Zealand",
             "versions": [
-                30, 41, 42, 56
+                30,
+                41,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -812,9 +1122,12 @@
         "fields": {
             "name": "TAHMO",
             "continent": "Africa",
-            "country": "Côte d'Ivoire, Nigeria, Ghana, Uganda, Rwanda, Kenya",
+            "country": "C\u00f4te d'Ivoire, Nigeria, Ghana, Uganda, Rwanda, Kenya",
             "versions": [
-                30, 42, 56
+                30,
+                42,
+                56,
+                69
             ]
         }
     },
@@ -826,7 +1139,8 @@
             "continent": "Europe",
             "country": "UK",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -838,7 +1152,8 @@
             "continent": "Europe",
             "country": "Italy",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -850,7 +1165,8 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -862,7 +1178,8 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -874,7 +1191,8 @@
             "continent": "Europe",
             "country": "Norway",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -886,7 +1204,8 @@
             "continent": "Europe",
             "country": "Russia",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -898,7 +1217,8 @@
             "continent": "Africa",
             "country": "Sudan",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -910,7 +1230,8 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -922,7 +1243,8 @@
             "continent": "Asia",
             "country": "China",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -934,7 +1256,8 @@
             "continent": "Europe",
             "country": "Italy",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -946,7 +1269,8 @@
             "continent": "Europe",
             "country": "Netherlands",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -958,7 +1282,8 @@
             "continent": "North America",
             "country": "USA",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
@@ -970,11 +1295,12 @@
             "continent": "Asia",
             "country": "Pakistan",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     },
-        {
+    {
         "model": "validator.ismnnetworks",
         "pk": 82,
         "fields": {
@@ -982,7 +1308,8 @@
             "continent": "Europe",
             "country": "Spain",
             "versions": [
-                56
+                56,
+                69
             ]
         }
     }
