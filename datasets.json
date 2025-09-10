@@ -64,7 +64,8 @@
       "is_spatial_reference": false,
       "versions": [
         3,
-        55
+        55,
+        70
       ],
       "resolution": {
         "value": 12.5,

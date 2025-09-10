@@ -955,10 +955,10 @@
                 1,
                 10,
                 11,
+                44,
                 12,
                 13,
-                14,
-                44
+                14
             ],
             "variables": [
                 3
@@ -1261,6 +1261,31 @@
             ],
             "variables": [
                 4
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 70,
+        "fields": {
+            "short_name": "ASCAT_H121",
+            "pretty_name": "H121",
+            "help_text": "",
+            "time_range_start": "2007-01-02",
+            "time_range_end": "2017-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                10,
+                11,
+                44,
+                51,
+                52,
+                53,
+                54
+            ],
+            "variables": [
+                30
             ]
         }
     }

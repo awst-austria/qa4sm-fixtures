@@ -347,5 +347,17 @@
       "min_value": 0.0,
       "max_value": 1.0
     }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 30,
+    "fields": {
+      "short_name": "surface_soil_moisture",
+      "pretty_name": "ASCAT_ssm",
+      "unit": "% sat.",
+      "help_text": "",
+      "min_value": 0.0,
+      "max_value": 100.0
+    }
   }
 ]
