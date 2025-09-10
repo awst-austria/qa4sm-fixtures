@@ -1344,5 +1344,30 @@
                 34
             ]
         }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 74,
+        "fields": {
+            "short_name": "ASCAT_H121",
+            "pretty_name": "H121",
+            "help_text": "",
+            "time_range_start": "2007-01-02",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                10,
+                11,
+                44,
+                51,
+                52,
+                53,
+                54
+            ],
+            "variables": [
+                35
+            ]
+        }
     }
 ]
