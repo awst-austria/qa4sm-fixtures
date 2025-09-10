@@ -619,10 +619,9 @@
             "pretty_name": "v700",
             "help_text": "SMOS L2-SM (ESA)",
             "time_range_start": "2010-07-01",
-            "time_range_end": "2025-05-20",
+            "time_range_end": "2025-06-24",
             "geographical_range": null,
             "filters": [
-                1,
                 35,
                 36,
                 37,
@@ -631,6 +630,7 @@
                 40,
                 41,
                 42,
+                1,
                 45,
                 46
             ],
@@ -745,12 +745,12 @@
             "pretty_name": "v202212",
             "help_text": "CDR v202212",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2025-05-10",
+            "time_range_end": "2025-05-31",
             "geographical_range": null,
             "filters": [
+                7,
                 1,
-                6,
-                7
+                6
             ],
             "variables": [
                 1
@@ -955,10 +955,10 @@
                 1,
                 10,
                 11,
-                44,
                 12,
                 13,
-                14
+                14,
+                44
             ],
             "variables": [
                 3
@@ -995,11 +995,11 @@
             "pretty_name": "latest",
             "help_text": "up-to-date version of 6-hourly ERA5 data",
             "time_range_start": "1979-01-01",
-            "time_range_end": "2025-02-28",
+            "time_range_end": "2025-03-31",
             "geographical_range": null,
             "filters": [
-                1,
-                16
+                16,
+                1
             ],
             "variables": [
                 11,
@@ -1017,12 +1017,12 @@
             "pretty_name": "v202312",
             "help_text": "CDR v202312",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2025-05-10",
+            "time_range_end": "2025-05-31",
             "geographical_range": null,
             "filters": [
+                7,
                 1,
-                6,
-                7
+                6
             ],
             "variables": [
                 1
@@ -1097,11 +1097,11 @@
             "pretty_name": "latest",
             "help_text": "updated snapshot of the reanalysis dataset",
             "time_range_start": "1981-01-01",
-            "time_range_end": "2025-02-28",
+            "time_range_end": "2025-03-31",
             "geographical_range": null,
             "filters": [
-                1,
-                17
+                17,
+                1
             ],
             "variables": [
                 12,
@@ -1268,24 +1268,80 @@
         "model": "validator.datasetversion",
         "pk": 70,
         "fields": {
-            "short_name": "ASCAT_H121",
-            "pretty_name": "H121",
-            "help_text": "",
-            "time_range_start": "2007-01-02",
-            "time_range_end": "2017-12-31",
+            "short_name": "C3S_V202505",
+            "pretty_name": "v202505",
+            "help_text": "C3S COMBINED v202505",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
                 1,
-                10,
-                11,
-                44,
-                51,
-                52,
-                53,
-                54
+                6,
+                7
+            ],
+            "variables": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 71,
+        "fields": {
+            "short_name": "C3S_P_V202505",
+            "pretty_name": "v202505",
+            "help_text": "C3S PASSIVE v202505",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 72,
+        "fields": {
+            "short_name": "C3S_A_V202505",
+            "pretty_name": "v202505",
+            "help_text": "C3S ACTIVE v202505",
+            "time_range_start": "1991-08-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
             ],
             "variables": [
                 30
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 73,
+        "fields": {
+            "short_name": "C3S_RZSM_V202505",
+            "pretty_name": "v202505",
+            "help_text": "C3S RZSM v202505",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1
+            ],
+            "variables": [
+                31,
+                32,
+                33,
+                34
             ]
         }
     }
