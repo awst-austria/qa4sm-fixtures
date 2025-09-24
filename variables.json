@@ -3,7 +3,6 @@
     "model": "validator.datavariable",
     "pk": 1,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "sm",
       "pretty_name": "C3S_sm",
       "unit": "m³/m³",
@@ -16,7 +15,6 @@
     "model": "validator.datavariable",
     "pk": 2,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "soil_moisture",
       "pretty_name": "SMAP_soil_moisture",
       "unit": "m³/m³",
@@ -29,7 +27,6 @@
     "model": "validator.datavariable",
     "pk": 3,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "sm",
       "pretty_name": "ASCAT_sm",
       "unit": "% sat.",
@@ -42,7 +39,6 @@
     "model": "validator.datavariable",
     "pk": 4,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "soil_moisture",
       "pretty_name": "ISMN_soil_moisture",
       "unit": "m³/m³",
@@ -55,7 +51,6 @@
     "model": "validator.datavariable",
     "pk": 5,
     "fields": {
-      "display_name": "Soil Moisture (0-10 cm)",
       "short_name": "SoilMoi0_10cm_inst",
       "pretty_name": "GLDAS_SoilMoi0_10cm_inst",
       "unit": "kg/m²",
@@ -68,7 +63,6 @@
     "model": "validator.datavariable",
     "pk": 6,
     "fields": {
-      "display_name": "Soil Moisture (10-40 cm)",
       "short_name": "SoilMoi10_40cm_inst",
       "pretty_name": "GLDAS_SoilMoi10_40cm_inst",
       "unit": "kg/m²",
@@ -81,7 +75,6 @@
     "model": "validator.datavariable",
     "pk": 7,
     "fields": {
-      "display_name": "Soil Moisture (40-100 cm)",
       "short_name": "SoilMoi40_100cm_inst",
       "pretty_name": "GLDAS_SoilMoi40_100cm_inst",
       "unit": "kg/m²",
@@ -94,7 +87,6 @@
     "model": "validator.datavariable",
     "pk": 8,
     "fields": {
-      "display_name": "Soil Moisture (100-200 cm)",
       "short_name": "SoilMoi100_200cm_inst",
       "pretty_name": "GLDAS_SoilMoi100_200cm_inst",
       "unit": "kg/m²",
@@ -107,7 +99,6 @@
     "model": "validator.datavariable",
     "pk": 9,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "sm",
       "pretty_name": "ESA_CCI_SM_C_sm",
       "unit": "m³/m³",
@@ -120,7 +111,6 @@
     "model": "validator.datavariable",
     "pk": 10,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "Soil_Moisture",
       "pretty_name": "SMOS_sm",
       "unit": "m³/m³",
@@ -133,7 +123,6 @@
     "model": "validator.datavariable",
     "pk": 11,
     "fields": {
-      "display_name": "Soil Moisture (0-7 cm)",
       "short_name": "swvl1",
       "pretty_name": "ERA5_sm",
       "unit": "m³/m³",
@@ -146,7 +135,6 @@
     "model": "validator.datavariable",
     "pk": 12,
     "fields": {
-      "display_name": "Soil Moisture (0-7 cm)",
       "short_name": "swvl1",
       "pretty_name": "ERA5_LAND_sm",
       "unit": "m³/m³",
@@ -159,7 +147,6 @@
     "model": "validator.datavariable",
     "pk": 13,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "sm",
       "pretty_name": "ESA_CCI_SM_A_sm",
       "unit": "% sat.",
@@ -172,7 +159,6 @@
     "model": "validator.datavariable",
     "pk": 14,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "sm",
       "pretty_name": "ESA_CCI_SM_P_sm",
       "unit": "m³/m³",
@@ -185,7 +171,6 @@
     "model": "validator.datavariable",
     "pk": 15,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "ssm",
       "pretty_name": "CGLS_SSM",
       "unit": "%",
@@ -198,7 +183,6 @@
     "model": "validator.datavariable",
     "pk": 16,
     "fields": {
-      "display_name": "Soil Water Index (T5)",
       "short_name": "SWI_005",
       "pretty_name": "CGLS_SWI_T5",
       "unit": "%",
@@ -211,7 +195,6 @@
     "model": "validator.datavariable",
     "pk": 17,
     "fields": {
-      "display_name": "Soil Water Index (T40)",
       "short_name": "SWI_040",
       "pretty_name": "CGLS_SWI_T40",
       "unit": "%",
@@ -224,7 +207,6 @@
     "model": "validator.datavariable",
     "pk": 18,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "Soil_Moisture",
       "pretty_name": "SMOSL3_sm",
       "unit": "m³/m³",
@@ -237,7 +219,6 @@
     "model": "validator.datavariable",
     "pk": 19,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "Soil_Moisture",
       "pretty_name": "SMOSL2_sm",
       "unit": "m³/m³",
@@ -250,7 +231,6 @@
     "model": "validator.datavariable",
     "pk": 20,
     "fields": {
-      "display_name": "Soil Moisture (0-10 cm)",
       "short_name": "rzsm_1",
       "pretty_name": "ESA_CCI_RZSM_0_10cm",
       "unit": "m³/m³",
@@ -263,7 +243,6 @@
     "model": "validator.datavariable",
     "pk": 21,
     "fields": {
-      "display_name": "Soil Moisture (10-40 cm)",
       "short_name": "rzsm_2",
       "pretty_name": "ESA_CCI_RZSM_10_40cm",
       "unit": "m³/m³",
@@ -276,7 +255,6 @@
     "model": "validator.datavariable",
     "pk": 22,
     "fields": {
-      "display_name": "Soil Moisture (40-100 cm)",
       "short_name": "rzsm_3",
       "pretty_name": "ESA_CCI_RZSM_40_100cm",
       "unit": "m³/m³",
@@ -289,7 +267,6 @@
     "model": "validator.datavariable",
     "pk": 23,
     "fields": {
-      "display_name": "Soil Moisture (0-100 cm)",
       "short_name": "rzsm_1m",
       "pretty_name": "ESA_CCI_RZSM_1m_avg",
       "unit": "m³/m³",
@@ -302,7 +279,6 @@
     "model": "validator.datavariable",
     "pk": 24,
     "fields": {
-      "display_name": "Soil Moisture (7-28 cm)",
       "short_name": "swvl2",
       "pretty_name": "ERA5_sm1",
       "unit": "m³/m³",
@@ -315,7 +291,6 @@
     "model": "validator.datavariable",
     "pk": 25,
     "fields": {
-      "display_name": "Soil Moisture (28-100 cm)",
       "short_name": "swvl3",
       "pretty_name": "ERA5_sm3",
       "unit": "m³/m³",
@@ -328,7 +303,6 @@
     "model": "validator.datavariable",
     "pk": 26,
     "fields": {
-      "display_name": "Soil Moisture (100-289 cm)",
       "short_name": "swvl4",
       "pretty_name": "ERA5_sm4",
       "unit": "m³/m³",
@@ -341,7 +315,6 @@
     "model": "validator.datavariable",
     "pk": 27,
     "fields": {
-      "display_name": "Soil Moisture (7-28 cm)",
       "short_name": "swvl2",
       "pretty_name": "ERA5_LAND_sm2",
       "unit": "m³/m³",
@@ -354,7 +327,6 @@
     "model": "validator.datavariable",
     "pk": 28,
     "fields": {
-      "display_name": "Soil Moisture (28-100 cm)",
       "short_name": "swvl3",
       "pretty_name": "ERA5_LAND_sm3",
       "unit": "m³/m³",
@@ -368,7 +340,6 @@
     "model": "validator.datavariable",
     "pk": 29,
     "fields": {
-      "display_name": "Soil Moisture (100-289 cm)",
       "short_name": "swvl4",
       "pretty_name": "ERA5_LAND_sm4",
       "unit": "m³/m³",
@@ -381,7 +352,6 @@
     "model": "validator.datavariable",
     "pk": 30,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "sm",
       "pretty_name": "C3S_sat",
       "unit": "% sat.",
@@ -394,7 +364,6 @@
     "model": "validator.datavariable",
     "pk": 31,
     "fields": {
-      "display_name": "Soil Moisture (0-10 cm)",
       "short_name": "rzsm_1",
       "pretty_name": "C3S_rzsm_1",
       "unit": "m³/m³",
@@ -407,7 +376,6 @@
     "model": "validator.datavariable",
     "pk": 32,
     "fields": {
-      "display_name": "Soil Moisture (10-40 cm)",
       "short_name": "rzsm_2",
       "pretty_name": "C3S_rzsm_2",
       "unit": "m³/m³",
@@ -420,7 +388,6 @@
     "model": "validator.datavariable",
     "pk": 33,
     "fields": {
-      "display_name": "Soil Moisture (40-100 cm)",
       "short_name": "rzsm_3",
       "pretty_name": "C3S_rzsm_3",
       "unit": "m³/m³",
@@ -433,7 +400,6 @@
     "model": "validator.datavariable",
     "pk": 34,
     "fields": {
-      "display_name": "Soil Moisture (0-100 cm)",
       "short_name": "rzsm_1m",
       "pretty_name": "C3S_rzsm_1m",
       "unit": "m³/m³",
@@ -446,7 +412,6 @@
     "model": "validator.datavariable",
     "pk": 35,
     "fields": {
-      "display_name": "Soil Moisture",
       "short_name": "surface_soil_moisture",
       "pretty_name": "ASCAT_ssm",
       "unit": "% sat.",
