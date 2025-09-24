@@ -55,7 +55,7 @@
     "model": "validator.datavariable",
     "pk": 5,
     "fields": {
-      "display_name": "Soil Moisture (0-10 cm",
+      "display_name": "Soil Moisture (0-10 cm)",
       "short_name": "SoilMoi0_10cm_inst",
       "pretty_name": "GLDAS_SoilMoi0_10cm_inst",
       "unit": "kg/m²",
@@ -82,7 +82,7 @@
     "pk": 7,
     "fields": {
       "display_name": "Soil Moisture (40-100 cm)",
-      "short_name": "Soil Moisture (40-100 cm)",
+      "short_name": "SoilMoi40_100cm_inst",
       "pretty_name": "GLDAS_SoilMoi40_100cm_inst",
       "unit": "kg/m²",
       "help_text": "",
@@ -263,7 +263,7 @@
     "model": "validator.datavariable",
     "pk": 21,
     "fields": {
-      "display_name": "Soil Moisture (10-40)",
+      "display_name": "Soil Moisture (10-40 cm)",
       "short_name": "rzsm_2",
       "pretty_name": "ESA_CCI_RZSM_10_40cm",
       "unit": "m³/m³",
@@ -316,7 +316,7 @@
     "pk": 25,
     "fields": {
       "display_name": "Soil Moisture (28-100 cm)",
-      "short_name": "Soil Moisture (28-100 cm)",
+      "short_name": "swvl3",
       "pretty_name": "ERA5_sm3",
       "unit": "m³/m³",
       "help_text": "",
@@ -328,7 +328,7 @@
     "model": "validator.datavariable",
     "pk": 26,
     "fields": {
-      "display_name": "Soil Moisture (100 -289 cm)",
+      "display_name": "Soil Moisture (100-289 cm)",
       "short_name": "swvl4",
       "pretty_name": "ERA5_sm4",
       "unit": "m³/m³",
