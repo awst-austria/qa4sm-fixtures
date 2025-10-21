@@ -1369,5 +1369,25 @@
                 35
             ]
         }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 75,
+        "fields": {
+            "short_name": "ESA_CCI_GAPFILLED_V09_2",
+            "pretty_name": "v09.2",
+            "help_text": "Gapfilled combined product of CCI SM v9.2",
+            "time_range_start": "1979-01-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                55,
+                56
+            ],
+            "variables": [
+                36
+            ]
+        }
     }
 ]

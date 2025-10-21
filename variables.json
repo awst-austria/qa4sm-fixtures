@@ -419,5 +419,17 @@
       "min_value": 0.0,
       "max_value": 100.0
     }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 36,
+    "fields": {
+      "short_name": "sm",
+      "pretty_name": "ESA_CCI_SM_GF_sm",
+      "unit": "m³/m³",
+      "help_text": "",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
   }
 ]

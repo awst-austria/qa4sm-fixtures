@@ -488,5 +488,27 @@
       },
       "user": null
     }
+  },
+    {
+    "model": "validator.dataset",
+    "pk": 22,
+    "fields": {
+      "short_name": "ESA_CCI_SM_gapfilled",
+      "pretty_name": "ESA CCI SM GAPFILLED",
+      "help_text": "GAPFILLED combined product of ESA CCI SM",
+      "storage_path": "testdata/input_data/ESA_CCI_SM_gapfilled",
+      "detailed_description": "The GAPFILLED product applies a sophisticated 3-dimensional interpolation algorithm to the COMBINED product to derive gap-free soil moisture estimates. Please see the <a target=\"_blank\" href=\"https://doi.org/10.48436/hcm6n-t4m35\" rel=\"noreferrer\">product homepage</a> for more information and a link to the paper.",
+      "source_reference": "<a target=\"_blank\" href=\"https://doi.org/10.48436/hcm6n-t4m35\" rel=\"noreferrer\">Dataset is publicly available without registration.</a>",
+      "citation": "<a target=\"_blank\" href=\"https://doi.org/10.5194/essd-17-4305-2025\" rel=\"noreferrer\">Preimesberger, W., Stradiotti, P., and Dorigo, W.: ESA CCI Soil Moisture GAPFILLED: an independent global gap-free satellite climate data record with uncertainty estimates, Earth Syst. Sci. Data, 17, 4305–4329, https://doi.org/10.5194/essd-17-4305-2025, 2025.</a>",
+      "is_spatial_reference": false,
+      "versions": [
+        75
+      ],
+      "resolution": {
+        "value": 0.25,
+        "unit": "deg"
+      },
+      "user": null
+    }
   }
 ]
