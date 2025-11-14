@@ -869,7 +869,7 @@
     "fields": {
       "name": "FIL_CCIGF_FROZENMASK",
       "description": "Excluded data points classified as 'frozen'",
-      "help_text": "ERA5 Soil Temperature (layer 1) is used in the gap-filling process to classify data points for which soil moisture should be frozen (T < 277 °K). A linear interpolation over time is applied in this case. Check this box to discard all affected values (filled or observed).",
+      "help_text": "ERA5 Soil Temperature is used in the gap-filling process to classify data points for which soil moisture should be frozen. A linear interpolation over time is applied in this case. Check this box to discard all affected values (filled or observed).",
       "parameterised": false,
       "dialog_name": null,
       "default_parameter": null,
