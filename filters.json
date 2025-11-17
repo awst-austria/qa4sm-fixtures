@@ -830,8 +830,7 @@
       "default_set_active": false,
       "readonly": false
     }
-  }
-,
+  },
   {
     "model": "validator.datafilter",
     "pk": 54,
@@ -842,6 +841,38 @@
       "parameterised": true,
       "dialog_name": null,
       "default_parameter": 1,
+      "to_include": null,
+      "to_exclude": null,
+      "default_set_active": false,
+      "readonly": false
+    }
+  },
+  {
+    "model": "validator.datafilter",
+    "pk": 55,
+    "fields": {
+      "name": "FIL_CCIGF_GAPMASK",
+      "description": "Use only filled values",
+      "help_text": "Exclude the original observations (same as v9.2 COMBINED) and use only the predicted (filled) values.",
+      "parameterised": false,
+      "dialog_name": null,
+      "default_parameter": null,
+      "to_include": null,
+      "to_exclude": null,
+      "default_set_active": false,
+      "readonly": false
+    }
+  },
+  {
+    "model": "validator.datafilter",
+    "pk": 56,
+    "fields": {
+      "name": "FIL_CCIGF_FROZENMASK",
+      "description": "Excluded data points classified as 'frozen'",
+      "help_text": "ERA5 Soil Temperature is used in the gap-filling process to classify data points for which soil moisture should be frozen. A linear interpolation over time is applied in this case. Check this box to discard all affected values (filled or observed).",
+      "parameterised": false,
+      "dialog_name": null,
+      "default_parameter": null,
       "to_include": null,
       "to_exclude": null,
       "default_set_active": false,
