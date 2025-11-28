@@ -619,7 +619,7 @@
             "pretty_name": "v700",
             "help_text": "SMOS L2-SM (ESA)",
             "time_range_start": "2010-07-01",
-            "time_range_end": "2025-09-16",
+            "time_range_end": "2025-11-18",
             "geographical_range": null,
             "filters": [
                 35,
@@ -995,7 +995,7 @@
             "pretty_name": "latest",
             "help_text": "up-to-date version of 6-hourly ERA5 data",
             "time_range_start": "1979-01-01",
-            "time_range_end": "2025-06-30",
+            "time_range_end": "2025-08-31",
             "geographical_range": null,
             "filters": [
                 16,
@@ -1097,7 +1097,7 @@
             "pretty_name": "latest",
             "help_text": "updated snapshot of the reanalysis dataset",
             "time_range_start": "1981-01-01",
-            "time_range_end": "2025-06-30",
+            "time_range_end": "2025-08-31",
             "geographical_range": null,
             "filters": [
                 17,
@@ -1387,6 +1387,26 @@
             ],
             "variables": [
                 36
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 76,
+        "fields": {
+            "short_name": "ESA_CCI_SM_C_V09_MR",
+            "pretty_name": "v09_MR",
+            "help_text": "Medium resolution ESA CCI Combined dataset",
+            "time_range_start": "2002-06-01",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                9
             ]
         }
     }
