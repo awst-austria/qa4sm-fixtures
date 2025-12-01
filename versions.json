@@ -1394,8 +1394,8 @@
         "model": "validator.datasetversion",
         "pk": 76,
         "fields": {
-            "short_name": "ESA_CCI_SM_C_V09_MR",
-            "pretty_name": "v09_MR",
+            "short_name": "ESA_CCI_SM_C_MR_v09_2",
+            "pretty_name": "v09.2_MR",
             "help_text": "Medium resolution ESA CCI Combined dataset",
             "time_range_start": "2002-06-01",
             "time_range_end": "2024-12-31",
