@@ -515,10 +515,10 @@
     "model": "validator.dataset",
     "pk": 23,
     "fields": {
-      "short_name": "ESA_CCI_SM_combined_MR",
-      "pretty_name": "ESA CCI SM combined MR",
+      "short_name": "ESA_CCI_SM_combined_medium_resolution",
+      "pretty_name": "ESA CCI SM combined medium resolution",
       "help_text": "ESA CCI SM medium resolution long-term data record",
-      "storage_path": "testdata/input_data/ESA_CCI_SM_combined_MR",
+      "storage_path": "testdata/input_data/ESA_CCI_SM_combined_medium_resolution",
       "detailed_description": "The ESA CCI SM long-term data record provides active, passive and combined (active+passive) on a daily basis. Observations are provided on a quarter degree grid. For more information on the ESA CCI SM product, please see the <a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/\" rel=\"noreferrer\">product homepage</a>.",
       "source_reference": "<a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/node/145\" rel=\"noreferrer\">Register at ESA CCI</a>, then download through FTP.",
       "citation": "<a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/node/137\" rel=\"noreferrer\">See CCI Publications Page</a>",
