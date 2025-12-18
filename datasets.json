@@ -24,7 +24,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -48,7 +50,9 @@
         "value": 36,
         "unit": "km"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.35
     }
   },
   {
@@ -72,7 +76,9 @@
         "value": 12.5,
         "unit": "km"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.1
     }
   },
   {
@@ -92,7 +98,8 @@
         56,
         69
       ],
-      "resolution": null
+      "resolution": null,
+      "is_scattered_data": true
     }
   },
   {
@@ -114,7 +121,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -142,7 +151,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -164,7 +175,9 @@
         "value": 25,
         "unit": "km"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -186,7 +199,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -208,7 +223,9 @@
         "value": 0.1,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.1
     }
   },
   {
@@ -236,7 +253,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -264,7 +283,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -286,7 +307,9 @@
         "value": 1,
         "unit": "km"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.009
     }
   },
   {
@@ -308,7 +331,9 @@
         "value": 1,
         "unit": "km"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.009
     }
   },
   {
@@ -331,7 +356,9 @@
         "value": 25,
         "unit": "km"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -353,7 +380,9 @@
         "value": 15,
         "unit": "km"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.135
     }
   },
   {
@@ -375,7 +404,9 @@
         "value": 36,
         "unit": "km"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.35
     }
   },
   {
@@ -398,7 +429,9 @@
         "value": 15,
         "unit": "km"
       },
-      "user": 1
+      "user": 1,
+      "is_scattered_data": false,
+      "plot_resolution": 0.135
     }
   },
   {
@@ -420,7 +453,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
     {
@@ -442,7 +477,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -464,7 +501,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -486,7 +525,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
     {
@@ -508,7 +549,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -530,7 +573,9 @@
         "value": 0.1,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.1
     }
   }
 
