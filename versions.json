@@ -1395,9 +1395,29 @@
         "pk": 76,
         "fields": {
             "short_name": "ESA_CCI_SM_C_MR_v09_2",
-            "pretty_name": "v09.2_MR",
-            "help_text": "Medium resolution ESA CCI Combined dataset",
-            "time_range_start": "2002-06-01",
+            "pretty_name": "v09.2",
+            "help_text": "Medium resolution (0.1 deg.) combined product of the v9.2 ESA CCI SM collection",
+            "time_range_start": "2002-06-19",
+            "time_range_end": "2024-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                9
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 77,
+        "fields": {
+            "short_name": "ESA_CCI_SM_MF_v09_2",
+            "pretty_name": "v09.2",
+            "help_text": "MODELFREE combined product of the v9.2 ESA CCI SM collection",
+            "time_range_start": "2002-06-19",
             "time_range_end": "2024-12-31",
             "geographical_range": null,
             "filters": [
