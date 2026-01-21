@@ -459,7 +459,8 @@
     "model": "validator.datavariable",
     "pk": 36,
     "fields": {
-      "short_name": "Soil Moisture",
+      "display_name" : "Soil Moisture",
+      "short_name": "sm",
       "pretty_name": "ESA_CCI_SM_GF_sm",
       "unit": "m³/m³",
       "help_text": "",
