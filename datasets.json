@@ -532,6 +532,27 @@
       },
       "user": null
     }
+  },
+  {
+    "model": "validator.dataset",
+    "pk": 24,
+    "fields": {
+      "short_name": "ESA_CCI_SM_modelfree",
+      "pretty_name": "ESA CCI SM MODELFREE",
+      "help_text": "ESA CCI SM combined MODELFREE long-term data record",
+      "storage_path": "testdata/input_data/ESA_CCI_SM_modelfree",
+      "detailed_description": "The MODELFREE product of ESA CCI SM scales the available (active and passive) L3 products to a L-band (SMAP/SMOS) scaling reference before merging. See the <a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/\" rel=\"noreferrer\">product homepage</a>.",
+      "source_reference": "<a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/node/145\" rel=\"noreferrer\">Register at ESA CCI</a>, then download through FTP.",
+      "citation": "<a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/node/137\" rel=\"noreferrer\">See CCI Publications Page</a>",
+      "is_spatial_reference": false,
+      "versions": [
+        77
+      ],
+      "resolution": {
+        "value": 0.25,
+        "unit": "deg"
+      },
+      "user": null
+    }
   }
-
 ]
