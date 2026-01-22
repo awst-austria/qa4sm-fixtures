@@ -55,7 +55,7 @@
     "model": "validator.datavariable",
     "pk": 5,
     "fields": {
-      "display_name": "Soil Moisture (0-10 cm",
+      "display_name": "Soil Moisture (0-10 cm)",
       "short_name": "SoilMoi0_10cm_inst",
       "pretty_name": "GLDAS_SoilMoi0_10cm_inst",
       "unit": "kg/m²",
@@ -82,7 +82,7 @@
     "pk": 7,
     "fields": {
       "display_name": "Soil Moisture (40-100 cm)",
-      "short_name": "Soil Moisture (40-100 cm)",
+      "short_name": "SoilMoi40_100cm_inst",
       "pretty_name": "GLDAS_SoilMoi40_100cm_inst",
       "unit": "kg/m²",
       "help_text": "",
