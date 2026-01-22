@@ -316,7 +316,7 @@
     "pk": 25,
     "fields": {
       "display_name": "Soil Moisture (28-100 cm)",
-      "short_name": "Soil Moisture (28-100 cm)",
+      "short_name": "swvl3",
       "pretty_name": "ERA5_sm3",
       "unit": "m³/m³",
       "help_text": "",
