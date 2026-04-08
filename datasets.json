@@ -597,7 +597,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   },
   {
@@ -619,7 +621,9 @@
         "value": 0.25,
         "unit": "deg"
       },
-      "user": null
+      "user": null,
+      "is_scattered_data": false,
+      "plot_resolution": 0.25
     }
   }
 ]
