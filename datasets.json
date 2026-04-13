@@ -601,29 +601,5 @@
       "is_scattered_data": false,
       "plot_resolution": 0.25
     }
-  },
-  {
-    "model": "validator.dataset",
-    "pk": 25,
-    "fields": {
-      "short_name": "ESA_CCI_SM_subdaily",
-      "pretty_name": "ESA CCI SM SUBDAILY",
-      "help_text": "ESA CCI SM combined SUBDAILY data record",
-      "storage_path": "testdata/input_data/ESA_CCI_SM_subdaily",
-      "detailed_description": "The combined (active and passive) SUBDAILY product of ESA CCI SM provides data on a subdaily basis at 00:00 and 12:00 UTC. Observations are provided on a quarter degree grid. For more information on the ESA CCI SM product, please see the <a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/\" rel=\"noreferrer\">product homepage</a>.",
-      "source_reference": "<a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/node/145\" rel=\"noreferrer\">Register at ESA CCI</a>, then download through FTP.",
-      "citation": "<a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/node/137\" rel=\"noreferrer\">See CCI Publications Page</a>",
-      "is_spatial_reference": false,
-      "versions": [
-        78
-      ],
-      "resolution": {
-        "value": 0.25,
-        "unit": "deg"
-      },
-      "user": null,
-      "is_scattered_data": false,
-      "plot_resolution": 0.25
-    }
   }
 ]

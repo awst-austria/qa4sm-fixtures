@@ -1424,29 +1424,6 @@
                 1,
                 6,
                 7
-                
-            ],
-            "variables": [
-                9
-            ]
-        }
-    },
-    {
-        "model": "validator.datasetversion",
-        "pk": 78,
-        "fields": {
-            "short_name": "ESA_CCI_SM_SD_v09_2",
-            "pretty_name": "v09.2",
-            "help_text": "SUBDAILY combined product of the v9.2 ESA CCI SM collection",
-            "time_range_start": "2012-07-01",
-            "time_range_end": "2024-12-31",
-            "geographical_range": null,
-            "filters": [
-                1,
-                6,
-                7,
-                57,
-                58
             ],
             "variables": [
                 9

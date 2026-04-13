@@ -878,38 +878,6 @@
       "default_set_active": false,
       "readonly": false
     }
-  },
-  {
-    "model": "validator.datafilter",
-    "pk": 57,
-    "fields": {
-      "name": "FIL_CCI_TIME_DAY",
-      "description": "Observations at 12:00 UTC",
-      "help_text": "Use only soil moisture values at 12:00 UTC. Note: 12:00 and 00:00 UTC are the only available observation times.",
-      "parameterised": false,
-      "dialog_name": null,
-      "default_parameter": null,
-      "to_include": null,
-      "to_exclude": "58",
-      "default_set_active": false,
-      "readonly": false
-    }
-  },
-  {
-    "model": "validator.datafilter",
-    "pk": 58,
-    "fields": {
-      "name": "FIL_CCI_TIME_NIGHT",
-      "description": "Observations at 00:00 UTC",
-      "help_text": "Use only soil moisture values at 00:00 UTC. Note: 12:00 and 00:00 UTC are the only available observation times.",
-      "parameterised": false,
-      "dialog_name": null,
-      "default_parameter": null,
-      "to_include": null,
-      "to_exclude": "57",
-      "default_set_active": false,
-      "readonly": false
-    }
   }
 
 ]
