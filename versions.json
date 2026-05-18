@@ -1452,5 +1452,27 @@
                 9
             ]
         }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 79,
+        "fields": {
+            "short_name": "ISMN_V20260419",
+            "pretty_name": "20260419 global",
+            "help_text": "ISMN from 2026-04-19 (with FRM QIs)",
+            "time_range_start": "",
+            "time_range_end": "2026-04-19",
+            "geographical_range": null,
+            "filters": [
+                1,
+                2,
+                18,
+                24,
+                43
+            ],
+            "variables": [
+                4
+            ]
+        }
     }
 ]
