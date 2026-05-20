@@ -94,9 +94,9 @@
       "citation": "<a target=\"_blank\" href=\"https://ismn.earth/en/terms-and-conditions/\" rel=\"noreferrer\">Terms and conditions.</a>",
       "is_spatial_reference": true,
       "versions": [
-        56,
         69,
-        79
+        79,
+        80
       ],
       "resolution": null,
       "is_scattered_data": true

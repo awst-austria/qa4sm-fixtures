@@ -1474,5 +1474,27 @@
                 4
             ]
         }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 80,
+        "fields": {
+            "short_name": "ISMN_V20260518_ext",
+            "pretty_name": "20260518 global extended",
+            "help_text": "ISMN with extended near real-time network coverage (with FRM QIs). ",
+            "time_range_start": "",
+            "time_range_end": "2026-05-18",
+            "geographical_range": null,
+            "filters": [
+                1,
+                2,
+                18,
+                24,
+                43
+            ],
+            "variables": [
+                4
+            ]
+        }
     }
 ]
