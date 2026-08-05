@@ -467,5 +467,18 @@
       "min_value": 0.0,
       "max_value": 1.0
     }
+  },
+  {
+    "model": "validator.datavariable",
+    "pk": 37,
+    "fields": {
+      "display_name": "Soil Moisture (100-200 cm)",
+      "short_name": "rzsm_4",
+      "pretty_name": "C3S_rzsm_4",
+      "unit": "m³/m³",
+      "help_text": "Satellite root-zone SM 100-200 cm",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
   }
 ]

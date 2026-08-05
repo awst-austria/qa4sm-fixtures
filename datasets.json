@@ -18,7 +18,8 @@
         31,
         45,
         58,
-        70
+        70,
+        81
       ],
       "resolution": {
         "value": 0.25,
@@ -471,7 +472,8 @@
       "citation": "<a target=\"_blank\" href=\"https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-soil-moisture?tab=overview\" rel=\"noreferrer\">See Climate Data Store</a>",
       "is_spatial_reference": false,
       "versions": [
-        72
+        72,
+        83
       ],
       "resolution": {
         "value": 0.25,
@@ -495,7 +497,8 @@
       "citation": "<a target=\"_blank\" href=\"https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-soil-moisture?tab=overview\" rel=\"noreferrer\">See Climate Data Store</a>",
       "is_spatial_reference": false,
       "versions": [
-        71
+        71,
+        82
       ],
       "resolution": {
         "value": 0.25,
@@ -519,7 +522,8 @@
       "citation": "<a target=\"_blank\" href=\"https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-soil-moisture?tab=overview\" rel=\"noreferrer\">See Climate Data Store</a>",
       "is_spatial_reference": false,
       "versions": [
-        73
+        73,
+        84
       ],
       "resolution": {
         "value": 0.25,
