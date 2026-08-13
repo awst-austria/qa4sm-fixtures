@@ -1272,12 +1272,12 @@
             "pretty_name": "v202505",
             "help_text": "C3S COMBINED v202505",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2026-07-10",
+            "time_range_end": "2026-07-31",
             "geographical_range": null,
             "filters": [
+                7,
                 1,
-                6,
-                7
+                6
             ],
             "variables": [
                 1
