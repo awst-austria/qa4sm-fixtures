@@ -910,6 +910,22 @@
       "default_set_active": false,
       "readonly": false
     }
+  },
+  {
+    "model": "validator.datafilter",
+    "pk": 59,
+    "fields": {
+      "name": "FIL_ISMN_TOLERANCES",
+      "description": "Depth tolerance for merging sensors",
+      "help_text": "Click 'set' to input the upper and lower depth tolerance [m] used when merging a station's sensors around the validated depth.",
+      "parameterised": true,
+      "dialog_name": "ismn_tolerances",
+      "default_parameter": "0.10,0.10",
+      "to_include": null,
+      "to_exclude": null,
+      "default_set_active": false,
+      "readonly": false
+    }
   }
 
 ]

@@ -263,7 +263,7 @@
     "model": "validator.datavariable",
     "pk": 21,
     "fields": {
-      "display_name": "Soil Moisture (10-40)",
+      "display_name": "Soil Moisture (10-40 cm)",
       "short_name": "rzsm_2",
       "pretty_name": "ESA_CCI_RZSM_10_40cm",
       "unit": "m³/m³",
