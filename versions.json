@@ -1147,7 +1147,7 @@
             "pretty_name": "v9 AM/descending+PM/ascending",
             "help_text": "-",
             "time_range_start": "2015-03-31",
-            "time_range_end": "2026-08-18",
+            "time_range_end": "2026-08-25",
             "geographical_range": null,
             "filters": [
                 1,
