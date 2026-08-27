@@ -1482,7 +1482,7 @@
             "pretty_name": "20260518 global extended",
             "help_text": "ISMN with extended near real-time network coverage (with FRM QIs). ",
             "time_range_start": "",
-            "time_range_end": "2026-08-19",
+            "time_range_end": "2026-08-26",
             "geographical_range": null,
             "filters": [
                 18,
