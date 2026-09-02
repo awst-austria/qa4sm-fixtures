@@ -1577,5 +1577,66 @@
                 34
             ]
         }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 85,
+        "fields": {
+            "short_name": "ESA_CCI_SM_C_V10_1",
+            "pretty_name": "v10.1",
+            "help_text": "ESA CCI SM v10.1 COMBINED 0.25 deg. daily",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2025-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                9
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 86,
+        "fields": {
+            "short_name": "ESA_CCI_SM_A_V10_1",
+            "pretty_name": "v10.1",
+            "help_text": "ESA CCI SM v10.1 ACTIVE 0.25 deg. daily",
+            "time_range_start": "1991-08-05",
+            "time_range_end": "2025-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                13
+            ]
+        }
+    },
+    {
+        "model": "validator.datasetversion",
+        "pk": 87,
+        "fields": {
+            "short_name": "ESA_CCI_SM_P_V10_1",
+            "pretty_name": "v10.1",
+            "help_text": "ESA CCI SM v10.1 PASSIVE 0.25 deg. daily",
+            "time_range_start": "1978-11-01",
+            "time_range_end": "2025-12-31",
+            "geographical_range": null,
+            "filters": [
+                1,
+                6,
+                7
+            ],
+            "variables": [
+                14
+            ]
+        }
     }
 ]
+
