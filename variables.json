@@ -61,7 +61,10 @@
       "unit": "kg/m²",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 100.0
+      "max_value": 100.0,
+      "depth_from": 0.0,
+      "depth_to": 0.1,
+      "depth_kind": "layer"
     }
   },
   {
@@ -74,7 +77,10 @@
       "unit": "kg/m²",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 300.0
+      "max_value": 300.0,
+      "depth_from": 0.1,
+      "depth_to": 0.4,
+      "depth_kind": "layer"
     }
   },
   {
@@ -87,7 +93,10 @@
       "unit": "kg/m²",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 600.0
+      "max_value": 600.0,
+      "depth_from": 0.4,
+      "depth_to": 1.0,
+      "depth_kind": "layer"
     }
   },
   {
@@ -100,7 +109,10 @@
       "unit": "kg/m²",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1000.0
+      "max_value": 1000.0,
+      "depth_from": 1.0,
+      "depth_to": 2.0,
+      "depth_kind": "layer"
     }
   },
   {
@@ -139,7 +151,10 @@
       "unit": "m³/m³",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.0,
+      "depth_to": 0.07,
+      "depth_kind": "layer"
     }
   },
   {
@@ -152,7 +167,10 @@
       "unit": "m³/m³",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.0,
+      "depth_to": 0.07,
+      "depth_kind": "layer"
     }
   },
   {
@@ -256,7 +274,10 @@
       "unit": "m³/m³",
       "help_text": "-",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.0,
+      "depth_to": 0.1,
+      "depth_kind": "layer"
     }
   },
   {
@@ -269,7 +290,10 @@
       "unit": "m³/m³",
       "help_text": "-",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.1,
+      "depth_to": 0.4,
+      "depth_kind": "layer"
     }
   },
   {
@@ -282,7 +306,10 @@
       "unit": "m³/m³",
       "help_text": "-",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.4,
+      "depth_to": 1.0,
+      "depth_kind": "layer"
     }
   },
   {
@@ -295,7 +322,10 @@
       "unit": "m³/m³",
       "help_text": "-",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.0,
+      "depth_to": 1.0,
+      "depth_kind": "aggregate"
     }
   },
   {
@@ -308,7 +338,10 @@
       "unit": "m³/m³",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.07,
+      "depth_to": 0.28,
+      "depth_kind": "layer"
     }
   },
   {
@@ -321,7 +354,10 @@
       "unit": "m³/m³",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.28,
+      "depth_to": 1.0,
+      "depth_kind": "layer"
     }
   },
   {
@@ -334,7 +370,10 @@
       "unit": "m³/m³",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 1.0,
+      "depth_to": 2.89,
+      "depth_kind": "layer"
     }
   },
   {
@@ -347,7 +386,10 @@
       "unit": "m³/m³",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.07,
+      "depth_to": 0.28,
+      "depth_kind": "layer"
     }
   },
   {
@@ -360,10 +402,12 @@
       "unit": "m³/m³",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.28,
+      "depth_to": 1.0,
+      "depth_kind": "layer"
     }
-  }
-  ,
+  },
   {
     "model": "validator.datavariable",
     "pk": 29,
@@ -374,10 +418,13 @@
       "unit": "m³/m³",
       "help_text": "",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 1.0,
+      "depth_to": 2.89,
+      "depth_kind": "layer"
     }
   },
-    {
+  {
     "model": "validator.datavariable",
     "pk": 30,
     "fields": {
@@ -400,7 +447,10 @@
       "unit": "m³/m³",
       "help_text": "Root-zone SM 0-10 cm",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.0,
+      "depth_to": 0.1,
+      "depth_kind": "layer"
     }
   },
   {
@@ -413,7 +463,10 @@
       "unit": "m³/m³",
       "help_text": "Root-zone SM 10-40 cm",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.1,
+      "depth_to": 0.4,
+      "depth_kind": "layer"
     }
   },
   {
@@ -426,10 +479,13 @@
       "unit": "m³/m³",
       "help_text": "Root-zone SM 40-100 cm",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.4,
+      "depth_to": 1.0,
+      "depth_kind": "layer"
     }
   },
-    {
+  {
     "model": "validator.datavariable",
     "pk": 34,
     "fields": {
@@ -439,7 +495,10 @@
       "unit": "m³/m³",
       "help_text": "Root-zone SM 0-1m",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 0.0,
+      "depth_to": 1.0,
+      "depth_kind": "aggregate"
     }
   },
   {
@@ -459,7 +518,7 @@
     "model": "validator.datavariable",
     "pk": 36,
     "fields": {
-      "display_name" : "Soil Moisture",
+      "display_name": "Soil Moisture",
       "short_name": "sm",
       "pretty_name": "ESA_CCI_SM_GF_sm",
       "unit": "m³/m³",
@@ -478,7 +537,10 @@
       "unit": "m³/m³",
       "help_text": "Satellite root-zone SM 100-200 cm",
       "min_value": 0.0,
-      "max_value": 1.0
+      "max_value": 1.0,
+      "depth_from": 1.0,
+      "depth_to": 2.0,
+      "depth_kind": "layer"
     }
   }
 ]
