@@ -451,7 +451,8 @@
       "citation": "<a target=\"_blank\" href=\"https://www.esa-soilmoisture-cci.org/node/137\" rel=\"noreferrer\">See CCI Publications Page</a>",
       "is_spatial_reference": false,
       "versions": [
-        68
+        68,
+        88
       ],
       "resolution": {
         "value": 0.25,
