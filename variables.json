@@ -474,9 +474,22 @@
     "fields": {
       "display_name": "Soil Moisture (100-200 cm)",
       "short_name": "rzsm_4",
-      "pretty_name": "C3S_rzsm_4",
+      "pretty_name": "rzsm_4",
       "unit": "m³/m³",
       "help_text": "Satellite root-zone SM 100-200 cm",
+      "min_value": 0.0,
+      "max_value": 1.0
+    }
+  },
+    {
+    "model": "validator.datavariable",
+    "pk": 38,
+    "fields": {
+      "display_name": "Rooting Depth Soil Moisture",
+      "short_name": "rzsm_erd",
+      "pretty_name": "rzsm_erd",
+      "unit": "m³/m³",
+      "help_text": "Soil moisture content at rooting depth",
       "min_value": 0.0,
       "max_value": 1.0
     }
