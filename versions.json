@@ -75,7 +75,8 @@
                 2,
                 18,
                 24,
-                43
+                43,
+                59
             ],
             "variables": [
                 4
@@ -221,7 +222,8 @@
                 2,
                 18,
                 24,
-                43
+                43,
+                59
             ],
             "variables": [
                 4
@@ -421,7 +423,8 @@
                 2,
                 18,
                 24,
-                43
+                43,
+                59
             ],
             "variables": [
                 4
@@ -619,7 +622,7 @@
             "pretty_name": "v700",
             "help_text": "SMOS L2-SM (ESA)",
             "time_range_start": "2010-07-01",
-            "time_range_end": "2026-09-15",
+            "time_range_end": "2026-10-06",
             "geographical_range": null,
             "filters": [
                 35,
@@ -672,7 +675,8 @@
                 2,
                 18,
                 24,
-                43
+                43,
+                59
             ],
             "variables": [
                 4
@@ -694,7 +698,8 @@
                 2,
                 18,
                 24,
-                43
+                43,
+                59
             ],
             "variables": [
                 4
@@ -980,7 +985,8 @@
                 2,
                 18,
                 24,
-                43
+                43,
+                59
             ],
             "variables": [
                 4
@@ -995,7 +1001,7 @@
             "pretty_name": "latest",
             "help_text": "up-to-date version of 6-hourly ERA5 data",
             "time_range_start": "1979-01-01",
-            "time_range_end": "2026-06-30",
+            "time_range_end": "2026-07-31",
             "geographical_range": null,
             "filters": [
                 16,
@@ -1097,17 +1103,17 @@
             "pretty_name": "latest",
             "help_text": "updated snapshot of the reanalysis dataset",
             "time_range_start": "1981-01-01",
-            "time_range_end": "2026-06-30",
+            "time_range_end": "2026-07-31",
             "geographical_range": null,
             "filters": [
                 17,
                 1
             ],
             "variables": [
+                29,
                 12,
                 27,
-                28,
-                29
+                28
             ]
         }
     },
@@ -1147,7 +1153,7 @@
             "pretty_name": "v9 AM/descending+PM/ascending",
             "help_text": "-",
             "time_range_start": "2015-03-31",
-            "time_range_end": "2026-09-15",
+            "time_range_end": "2026-10-06",
             "geographical_range": null,
             "filters": [
                 1,
@@ -1257,7 +1263,8 @@
                 2,
                 18,
                 24,
-                43
+                43,
+                59
             ],
             "variables": [
                 4
@@ -1272,7 +1279,7 @@
             "pretty_name": "v202505",
             "help_text": "C3S COMBINED v202505",
             "time_range_start": "1978-11-01",
-            "time_range_end": "2026-09-10",
+            "time_range_end": "2026-09-20",
             "geographical_range": null,
             "filters": [
                 7,
@@ -1467,7 +1474,8 @@
                 2,
                 18,
                 24,
-                43
+                43,
+                59
             ],
             "variables": [
                 4
@@ -1482,14 +1490,15 @@
             "pretty_name": "20260518 global extended",
             "help_text": "ISMN with extended near real-time network coverage (with FRM QIs). ",
             "time_range_start": "",
-            "time_range_end": "2026-08-26",
+            "time_range_end": "2026-10-06",
             "geographical_range": null,
             "filters": [
-                18,
-                24,
                 1,
                 2,
-                43
+                18,
+                24,
+                43,
+                59
             ],
             "variables": [
                 4
