@@ -1097,17 +1097,17 @@
             "pretty_name": "latest",
             "help_text": "updated snapshot of the reanalysis dataset",
             "time_range_start": "1981-01-01",
-            "time_range_end": "2026-07-31",
+            "time_range_end": "2026-08-31",
             "geographical_range": null,
             "filters": [
                 17,
                 1
             ],
             "variables": [
-                29,
                 12,
                 27,
-                28
+                28,
+                29
             ]
         }
     },
